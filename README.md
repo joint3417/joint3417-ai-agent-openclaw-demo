@@ -24,12 +24,17 @@
 - 缺陷率下降 15%
 
 ## 演示截图
-![billing](./screenshots/billing.png)
-![logs](./screenshots/logs.png)
-![workflow](./screenshots/workflow.png)
+### 账单截图
+![账单截图](demo/billing.png)
+
+### 终端日志截图
+![终端日志截图](demo/logs.png)
+
+### Agent 工作流截图
+![Agent 工作流截图](demo/workflow.png)
 
 ## 在线演示
-https://ai-agent-demo.vercel.app
+[点击这里访问在线演示](https://ai-agent-demo.vercel.app)
 
 ## 技术栈
 - OpenClaw
